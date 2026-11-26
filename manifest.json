@@ -1,0 +1,25 @@
+{
+  "format": "bitcoin-prospector-filter",
+  "version": 1,
+  "blockHeight": 937817,
+  "createdAt": "2026-11-26T01:15:31.422Z",
+  "legacyCount": 49706018,
+  "taprootCount": 4779291,
+  "totalEntries": 54485309,
+  "bloomBits": 1044483376,
+  "bloomHashes": 14,
+  "files": {
+    "filter.bin": {
+      "bytes": 130560486,
+      "sha256": "7237213ee58ee8acba02c2db39a896da5c72ba1529c70bd69ec70a861ff55164"
+    },
+    "legacy.bin": {
+      "bytes": 1391768504,
+      "sha256": "6f1b4250a5008c44af501345d75fb74748279f632db17575dcb92e9ec3ddd0dc"
+    },
+    "taproot.bin": {
+      "bytes": 191171640,
+      "sha256": "107a7de60c2cecf93d6aa21a48937ee30d1b332d5d8fecf07e7b1c30dbf10c64"
+    }
+  }
+}
